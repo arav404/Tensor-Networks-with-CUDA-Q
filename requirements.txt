@@ -1,0 +1,5 @@
+numpy
+pandas
+matplotlib
+python-igraph
+# cuda-quantum is not available on PyPI; install separately via NVIDIA's repository.
